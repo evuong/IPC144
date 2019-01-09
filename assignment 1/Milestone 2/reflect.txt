@@ -1,0 +1,6 @@
+1. Can you think of a more efficient way to ask a user to add the required information to each data field?
+Perhaps using a combination of certain woulds make it faster for the user to enter the information. Instead of looking at each individual piece of the name (first, middle, last), combine them all to ask for full name. Same with the address.
+
+
+2. Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters.
+This is so that there is enough room to include a null terminator. 

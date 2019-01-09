@@ -1,0 +1,7 @@
+3. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your source code with respect to overall maintenance and readability.
+
+Find contact index can be found present in many other functions. This function helps to identify a contact based on their cell phone number. This helps make other functions more readable and provides easy maintenance for the problem if the search is broken. The getTenDigitPhone helps to make sure that any cell phone number entered is 10 digits long. This prevents errors for when the program is used to search for numbers.
+
+4. What did you learn most from doing Assignment 2?
+
+I learned a lot about using pointers and addresses within functions. It is still tricky and the errors while running help me but overall, my knowledge has increased.

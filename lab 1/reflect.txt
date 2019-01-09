@@ -1,0 +1,1 @@
+In this workshop I learned how to use matrix. I also learned how to SFTP files onto my matrix in order to submit it. I learned a variety of commands such as gcc and mkdir. 

@@ -1,0 +1,7 @@
+1. In 3 or 4 sentences explain the term “function” and briefly discuss the need for functions in any language?
+
+A function is the behind the scenes how how a command works. We create the prototypes called 'getInt' and the function is the code in which the prototype is based off of. There is a need for functions in order to help clean up the code. Everything would become too complicated and messy without simple named functions.
+
+2. Briefly explain why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module?
+
+The helper functions are used to help the main part of the code. They are in a difficult module to clean up the code and make the main code more easy to read. All the mechanisms and behind the scenes things happen in the other module and the main module is where everything is put together.

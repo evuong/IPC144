@@ -1,0 +1,12 @@
+
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+
+We need to have our arrays set to 10 because 10 is the maximum number of days that the user is allowed to enter. Having anymore would be a waste of space. 
+
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays?
+
+Arrays are useful because it allows you to store a large quantity of data into one variable. One disadvantage of arrays is that it is hard to call on specific variables due to the data being stored consecutively, usually through the use of a loop.
+
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+
+I found this at home workshop just right. It built upon what we did in class and required us to think more critically to do tasks such as average up to the day entered and max/min temperature. 

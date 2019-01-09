@@ -1,0 +1,16 @@
+1- What do think is the most important thing you learned in this workshop?
+
+The most important thing I learned in this workshop was trial and error. Retyping code in different ways and getting over my own frustration helped me ultimately finish the lab.
+
+2- Why must you add .005 to the value derived when calculating the GST owing?
+
+To solve rounding errors due to standard C compliers truncates decimal numbers.
+
+3- What is the result of a casting operation?
+
+Casting converts one type of data to another. It allows programmers to narrow or promote a number temporarily without losing its value. 
+
+
+4- Why do you think you were required to use the modulus operator in this workshop?
+
+To help teach us how to use modulus in calculations instead of just using a combination other operations. It shows us how modulus is more efficient. 

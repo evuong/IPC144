@@ -1,0 +1,16 @@
+1) Name all the iteration constructs.
+
+While
+Do while
+For
+
+2) In two or three sentences explain the difference between a “do while” and a
+“while” loop?
+
+A while loop checks for the condition first to see if it should run a block of code. A do while loop runs the code at least once then checks to see if it should run the code. 
+
+
+3) In two or three sentences explain what is meant by the term conditional
+expression?
+
+A conditional expression is a block of code that only runs when the condition is met. An if statement will run when the condition is true or if there is an else statement, that will run instead. 
