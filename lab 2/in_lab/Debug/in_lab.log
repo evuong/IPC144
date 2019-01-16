@@ -1,5 +1,0 @@
-﻿  cashRegister.c
-c:\users\evuong1\downloads\ipc-workshops-master\ws02\in_lab\cashregister.c(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\evuong1\downloads\ipc-workshops-master\ws02\in_lab\cashregister.c(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  in_lab.vcxproj -> C:\Users\evuong1\Downloads\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.exe
-  in_lab.vcxproj -> C:\Users\evuong1\Downloads\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.pdb (Partial PDB)
